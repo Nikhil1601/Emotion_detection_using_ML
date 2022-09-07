@@ -4,7 +4,7 @@ from tkinter import *
 
 from sklearn import metrics
 
-from tensorflow.keras.models import model_from_json
+from keras.models import model_from_json
 from PIL import Image, ImageTk
 import numpy as np
 import cv2
